@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    background: #1F2937;
+   
+
+}
+h1 {
+    text-align: left;
+    color:#FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 0px; 
+    padding: 0px 50px ;
+}
+#random-password{
+    margin: 0 ;
+    color: #4ADF86;
+}
+p {
+    padding: 0px 50px ;
+    color: #D5D4D8;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+button{
+    padding: 10px  ;
+    border-radius: 10px;
+    margin-left: 50px;
+    background: #10B981;
+    color: #D5D4D8;
+}
+#passwords{
+    
+    display: flex;
+    flex-direction: row;
+    align-content: start;
+    justify-content: start;
+}
+
+#password-el{
+   border: invisible;
+   border-width: 211px;
+   background: #273549;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 6px;
+   color: #4ADF86;
+   Font-family: Inter;
+    Font-style: Medium;
+    Font-size: 16px;
+    margin-left: 50px;
+}
+#password-el2{
+    border: invisible;
+   border-width: 100px;
+   background: #273549;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 6px;
+   color: #4ADF86;
+   Font-family: Inter;
+    Font-style: Medium;
+    font-size: 16px;
+    margin-left: 15px;
+    
+}
+#line{
+    border: 1px solid #273549;
+    margin-left: 50px;
+    margin-right: 101px;
+    margin-top: 30px;
+    margin-bottom: 10px
+}
+label{
+    color: white;
+    margin-left: 50px;
+    margin-right: 101px;
+    margin-top: 30px;
+    margin-bottom: 50px
+}
+#submit{
+    margin-top: 20px;
+}
